@@ -3,7 +3,7 @@ name = "SigmaOS-gluebuddy"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "gluebuddy component"
+description = "SigmaOS gluebuddy component (Arch Linux inspired)"
 upstream = []
 
 [contract]
